@@ -1,0 +1,30 @@
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste.Business.Entities\bin\Debug\ClasTech.Teste.Business.Entities.dll.config
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste.Business.Entities\bin\Debug\ClasTech.Teste.Business.Entities.dll
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste.Business.Entities\bin\Debug\ClasTech.Teste.Business.Entities.pdb
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste.Business.Entities\bin\Debug\EntityFramework.dll
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste.Business.Entities\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste.Business.Entities\bin\Debug\EntityFramework.xml
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste.Business.Entities\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste.Business.Entities\obj\Debug\ClasTech.Teste.Business.Entities.csprojResolveAssemblyReference.cache
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste.Business.Entities\obj\Debug\ClasTech.Teste.Business.Entities.dll
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste.Business.Entities\obj\Debug\ClasTech.Teste.Business.Entities.pdb
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste.Business.Entities\bin\Debug\ClasTech.Teste.Business.Entities.dll.config
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste.Business.Entities\bin\Debug\ClasTech.Teste.Business.Entities.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste.Business.Entities\bin\Debug\ClasTech.Teste.Business.Entities.pdb
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste.Business.Entities\bin\Debug\EntityFramework.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste.Business.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste.Business.Entities\bin\Debug\EntityFramework.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste.Business.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste.Business.Entities\obj\Debug\ClasTech.Teste.Business.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste.Business.Entities\obj\Debug\ClasTech.Teste.Business.Entities.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste.Business.Entities\obj\Debug\ClasTech.Teste.Business.Entities.pdb
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste.Business.Entities\bin\Debug\ClasTech.Teste.Business.Entities.dll.config
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste.Business.Entities\bin\Debug\ClasTech.Teste.Business.Entities.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste.Business.Entities\bin\Debug\ClasTech.Teste.Business.Entities.pdb
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste.Business.Entities\bin\Debug\EntityFramework.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste.Business.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste.Business.Entities\bin\Debug\EntityFramework.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste.Business.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste.Business.Entities\obj\Debug\ClasTech.Teste.Business.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste.Business.Entities\obj\Debug\ClasTech.Teste.Business.Entities.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste.Business.Entities\obj\Debug\ClasTech.Teste.Business.Entities.pdb
