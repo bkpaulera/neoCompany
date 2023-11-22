@@ -1,0 +1,380 @@
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\ApplicationInsights.config
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\roslyn\csc.exe
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\roslyn\System.Collections.Immutable.dll
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\roslyn\vbc.exe
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\roslyn\VBCSCompiler.exe
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\roslyn\VBCSCompiler.exe.config
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\ClasTech.Teste.dll.config
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\ClasTech.Teste.dll
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\ClasTech.Teste.pdb
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Antlr3.Runtime.dll
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\ClasTech.Teste.Models.dll
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\ClasTech.Teste.Service.dll
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\EntityFramework.dll
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\EntityFramework.SqlServer.dll
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.AI.Web.dll
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.AI.WindowsServer.dll
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.ApplicationInsights.dll
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.dll
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.Security.dll
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.Security.Google.dll
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Web.Infrastructure.dll
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Newtonsoft.Json.dll
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Owin.dll
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\System.Net.Http.Formatting.dll
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\System.Web.Helpers.dll
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\System.Web.Http.dll
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\System.Web.Http.WebHost.dll
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\System.Web.Mvc.dll
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\System.Web.Optimization.dll
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\System.Web.Razor.dll
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\System.Web.WebPages.Deployment.dll
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\System.Web.WebPages.dll
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\System.Web.WebPages.Razor.dll
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\WebGrease.dll
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\ClasTech.Teste.Models.pdb
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\ClasTech.Teste.Service.pdb
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.AI.Web.xml
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.AI.WindowsServer.xml
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.ApplicationInsights.xml
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\System.Web.Helpers.xml
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\System.Web.Mvc.xml
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\System.Web.Optimization.xml
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\System.Web.Razor.xml
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\System.Web.WebPages.xml
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\System.Web.WebPages.Deployment.xml
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\System.Web.WebPages.Razor.xml
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Antlr3.Runtime.pdb
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Newtonsoft.Json.xml
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\System.Net.Http.Formatting.xml
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\System.Web.Http.xml
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\System.Web.Http.WebHost.xml
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\EntityFramework.xml
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\EntityFramework.SqlServer.xml
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.xml
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.Security.xml
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.Security.Google.xml
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\obj\Debug\ClasTech.Teste.csprojResolveAssemblyReference.cache
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\obj\Debug\ClasTech.Teste.dll
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\obj\Debug\ClasTech.Teste.pdb
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\ClasTech.Teste.Business.Entities.dll
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\ClasTech.Teste.Business.Entities.pdb
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\ApplicationInsights.config
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\roslyn\csc.exe
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\roslyn\vbc.exe
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\roslyn\VBCSCompiler.exe
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\ClasTech.Teste.dll.config
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\ClasTech.Teste.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\ClasTech.Teste.pdb
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Antlr3.Runtime.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\ClasTech.Teste.Models.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\ClasTech.Teste.Service.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\EntityFramework.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\EntityFramework.SqlServer.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.AI.Web.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.Security.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Newtonsoft.Json.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Owin.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\System.Net.Http.Formatting.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\System.Web.Helpers.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\System.Web.Http.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\System.Web.Http.WebHost.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\System.Web.Mvc.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\System.Web.Optimization.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\System.Web.Razor.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\System.Web.WebPages.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\System.Web.WebPages.Razor.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\WebGrease.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\ClasTech.Teste.Business.Entities.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\ClasTech.Teste.Models.pdb
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\ClasTech.Teste.Service.pdb
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.AI.Web.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\System.Web.Helpers.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\System.Web.Mvc.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\System.Web.Optimization.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\System.Web.Razor.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\System.Web.WebPages.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\System.Web.WebPages.Razor.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Antlr3.Runtime.pdb
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Newtonsoft.Json.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\System.Net.Http.Formatting.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\System.Web.Http.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\System.Web.Http.WebHost.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\EntityFramework.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\EntityFramework.SqlServer.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.Security.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\bin\ClasTech.Teste.Business.Entities.pdb
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\obj\Debug\ClasTech.Teste.csprojResolveAssemblyReference.cache
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\obj\Debug\ClasTech.Teste.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste\obj\Debug\ClasTech.Teste.pdb
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\ApplicationInsights.config
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\roslyn\csc.exe
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\roslyn\vbc.exe
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\roslyn\VBCSCompiler.exe
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\ClasTech.Teste.dll.config
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\ClasTech.Teste.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\ClasTech.Teste.pdb
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\Antlr3.Runtime.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\ClasTech.Teste.Models.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\ClasTech.Teste.Service.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\EntityFramework.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\EntityFramework.SqlServer.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.AI.Web.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.Security.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\Newtonsoft.Json.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\Owin.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\System.Net.Http.Formatting.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\System.Web.Helpers.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\System.Web.Http.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\System.Web.Http.WebHost.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\System.Web.Mvc.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\System.Web.Optimization.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\System.Web.Razor.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\System.Web.WebPages.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\System.Web.WebPages.Razor.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\WebGrease.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\ClasTech.Teste.Business.Entities.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\ClasTech.Teste.Models.pdb
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\ClasTech.Teste.Service.pdb
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.AI.Web.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\System.Web.Helpers.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\System.Web.Mvc.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\System.Web.Optimization.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\System.Web.Razor.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\System.Web.WebPages.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\System.Web.WebPages.Razor.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\Antlr3.Runtime.pdb
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\Newtonsoft.Json.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\System.Net.Http.Formatting.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\System.Web.Http.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\System.Web.Http.WebHost.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\EntityFramework.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\EntityFramework.SqlServer.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.Security.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\bin\ClasTech.Teste.Business.Entities.pdb
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\obj\Debug\ClasTech.Teste.csprojResolveAssemblyReference.cache
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\obj\Debug\ClasTech.Teste.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste\obj\Debug\ClasTech.Teste.pdb
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\ApplicationInsights.config
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\roslyn\csc.exe
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\roslyn\vbc.exe
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\roslyn\VBCSCompiler.exe
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\ClasTech.Teste.dll.config
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\ClasTech.Teste.dll
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\ClasTech.Teste.pdb
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\Antlr3.Runtime.dll
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\ClasTech.Teste.Models.dll
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\ClasTech.Teste.Service.dll
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\EntityFramework.dll
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\EntityFramework.SqlServer.dll
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.AI.Web.dll
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.ApplicationInsights.dll
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.dll
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.Security.dll
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\Newtonsoft.Json.dll
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\Owin.dll
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\System.Net.Http.Formatting.dll
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\System.Web.Helpers.dll
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\System.Web.Http.dll
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\System.Web.Http.WebHost.dll
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\System.Web.Mvc.dll
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\System.Web.Optimization.dll
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\System.Web.Razor.dll
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\System.Web.WebPages.Deployment.dll
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\System.Web.WebPages.dll
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\System.Web.WebPages.Razor.dll
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\WebGrease.dll
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\ClasTech.Teste.Business.Entities.dll
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\ClasTech.Teste.Models.pdb
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\ClasTech.Teste.Service.pdb
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\ClasTech.Teste.Service.dll.config
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.AI.Web.xml
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.ApplicationInsights.xml
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\System.Web.Helpers.xml
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\System.Web.Mvc.xml
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\System.Web.Optimization.xml
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\System.Web.Razor.xml
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\System.Web.WebPages.xml
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\System.Web.WebPages.Deployment.xml
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\System.Web.WebPages.Razor.xml
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\Antlr3.Runtime.pdb
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\Newtonsoft.Json.xml
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\System.Net.Http.Formatting.xml
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\System.Web.Http.xml
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\System.Web.Http.WebHost.xml
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\EntityFramework.xml
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\EntityFramework.SqlServer.xml
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.xml
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.Security.xml
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\ClasTech.Teste.Business.Entities.pdb
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\obj\Debug\ClasTech.Teste.csproj.AssemblyReference.cache
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\obj\Debug\ClasTech.Teste.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\obj\Debug\ClasTech.Teste.csproj.CopyComplete
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\obj\Debug\ClasTech.Teste.dll
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\obj\Debug\ClasTech.Teste.pdb
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste\bin\ClasTech.Teste.Business.Entities.dll.config

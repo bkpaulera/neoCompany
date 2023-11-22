@@ -1,0 +1,68 @@
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste.Service\bin\Debug\ClasTech.Teste.Service.dll.config
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste.Service\bin\Debug\ClasTech.Teste.Service.dll
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste.Service\bin\Debug\ClasTech.Teste.Service.pdb
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste.Service\bin\Debug\ClasTech.Teste.Business.Entities.dll
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste.Service\bin\Debug\ClasTech.Teste.Business.Logic.dll
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste.Service\bin\Debug\ClasTech.Teste.Models.dll
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste.Service\bin\Debug\EntityFramework.dll
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste.Service\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste.Service\bin\Debug\ClasTech.Teste.Business.Entities.pdb
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste.Service\bin\Debug\ClasTech.Teste.Business.Logic.pdb
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste.Service\bin\Debug\ClasTech.Teste.Models.pdb
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste.Service\bin\Debug\EntityFramework.xml
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste.Service\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste.Service\obj\Debug\ClasTech.Teste.Service.csprojResolveAssemblyReference.cache
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste.Service\obj\Debug\ClasTech.Teste.Service.dll
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste.Service\obj\Debug\ClasTech.Teste.Service.pdb
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste.Service\bin\Debug\ClasTech.Teste.Service.dll.config
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste.Service\bin\Debug\ClasTech.Teste.Service.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste.Service\bin\Debug\ClasTech.Teste.Service.pdb
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste.Service\bin\Debug\ClasTech.Teste.Business.Entities.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste.Service\bin\Debug\ClasTech.Teste.Business.Logic.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste.Service\bin\Debug\ClasTech.Teste.Models.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste.Service\bin\Debug\EntityFramework.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste.Service\bin\Debug\ClasTech.Teste.Business.Entities.pdb
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste.Service\bin\Debug\ClasTech.Teste.Business.Logic.pdb
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste.Service\bin\Debug\ClasTech.Teste.Models.pdb
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste.Service\bin\Debug\EntityFramework.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste.Service\obj\Debug\ClasTech.Teste.Service.csprojResolveAssemblyReference.cache
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste.Service\obj\Debug\ClasTech.Teste.Service.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste.Service\obj\Debug\ClasTech.Teste.Service.pdb
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste.Service\bin\Debug\ClasTech.Teste.Service.dll.config
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste.Service\bin\Debug\ClasTech.Teste.Service.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste.Service\bin\Debug\ClasTech.Teste.Service.pdb
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste.Service\bin\Debug\ClasTech.Teste.Business.Entities.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste.Service\bin\Debug\ClasTech.Teste.Business.Logic.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste.Service\bin\Debug\ClasTech.Teste.Models.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste.Service\bin\Debug\EntityFramework.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste.Service\bin\Debug\ClasTech.Teste.Business.Entities.pdb
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste.Service\bin\Debug\ClasTech.Teste.Business.Logic.pdb
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste.Service\bin\Debug\ClasTech.Teste.Models.pdb
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste.Service\bin\Debug\EntityFramework.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste.Service\obj\Debug\ClasTech.Teste.Service.csprojResolveAssemblyReference.cache
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste.Service\obj\Debug\ClasTech.Teste.Service.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste.Service\obj\Debug\ClasTech.Teste.Service.pdb
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste.Service\bin\Debug\ClasTech.Teste.Service.dll.config
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste.Service\bin\Debug\ClasTech.Teste.Service.dll
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste.Service\bin\Debug\ClasTech.Teste.Service.pdb
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste.Service\bin\Debug\ClasTech.Teste.Business.Entities.dll
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste.Service\bin\Debug\ClasTech.Teste.Business.Logic.dll
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste.Service\bin\Debug\ClasTech.Teste.Models.dll
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste.Service\bin\Debug\EntityFramework.dll
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste.Service\bin\Debug\ClasTech.Teste.Business.Entities.pdb
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste.Service\bin\Debug\ClasTech.Teste.Business.Entities.dll.config
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste.Service\bin\Debug\ClasTech.Teste.Business.Logic.pdb
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste.Service\bin\Debug\ClasTech.Teste.Business.Logic.dll.config
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste.Service\bin\Debug\ClasTech.Teste.Models.pdb
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste.Service\bin\Debug\EntityFramework.xml
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste.Service\obj\Debug\ClasTech.Teste.Service.csproj.AssemblyReference.cache
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste.Service\obj\Debug\ClasTech.Teste.Service.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste.Service\obj\Debug\ClasTech.Teste.Service.csproj.CopyComplete
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste.Service\obj\Debug\ClasTech.Teste.Service.dll
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste.Service\obj\Debug\ClasTech.Teste.Service.pdb

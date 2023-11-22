@@ -1,0 +1,21 @@
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste.Models\bin\Debug\ClasTech.Teste.Models.dll
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste.Models\bin\Debug\ClasTech.Teste.Models.pdb
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste.Models\obj\Debug\ClasTech.Teste.Models.csprojResolveAssemblyReference.cache
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste.Models\obj\Debug\ClasTech.Teste.Models.dll
+c:\users\indefinido\documents\visual studio 2015\Projects\ClasTech.Teste\ClasTech.Teste.Models\obj\Debug\ClasTech.Teste.Models.pdb
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste.Models\bin\Debug\ClasTech.Teste.Models.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste.Models\bin\Debug\ClasTech.Teste.Models.pdb
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste.Models\obj\Debug\ClasTech.Teste.Models.csprojResolveAssemblyReference.cache
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste.Models\obj\Debug\ClasTech.Teste.Models.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\ClasTech.Teste\ClasTech.Teste.Models\obj\Debug\ClasTech.Teste.Models.pdb
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste.Models\bin\Debug\ClasTech.Teste.Models.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste.Models\bin\Debug\ClasTech.Teste.Models.pdb
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste.Models\obj\Debug\ClasTech.Teste.Models.csprojResolveAssemblyReference.cache
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste.Models\obj\Debug\ClasTech.Teste.Models.dll
+C:\Users\Apresentação CT\Documents\Visual Studio 2015\Projects\Victor Teste\ClasTech.Teste\ClasTech.Teste.Models\obj\Debug\ClasTech.Teste.Models.pdb
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste.Models\bin\Debug\ClasTech.Teste.Models.dll
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste.Models\bin\Debug\ClasTech.Teste.Models.pdb
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste.Models\obj\Debug\ClasTech.Teste.Models.csproj.AssemblyReference.cache
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste.Models\obj\Debug\ClasTech.Teste.Models.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste.Models\obj\Debug\ClasTech.Teste.Models.dll
+C:\Users\paulo\Desktop\Test\neoCompany - teste back end\ClasTech.Teste\ClasTech.Teste.Models\obj\Debug\ClasTech.Teste.Models.pdb
