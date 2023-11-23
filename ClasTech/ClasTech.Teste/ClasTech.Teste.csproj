@@ -4,7 +4,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <UserSecretsId>aspnet-ClasTech.Teste-47beea88-b4b4-40e6-b825-3009f95fb7ea</UserSecretsId>
+    <UserSecretsId>aspnet-ClasTech.Teste-2e43910c-d0c8-4fa4-9478-789965dcf813</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
@@ -19,10 +19,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ClasTech.Teste.Models\ClasTech.Teste.Models.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Views\Teste\" />
   </ItemGroup>
 
 </Project>

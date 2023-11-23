@@ -6,4 +6,13 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.24" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ClasTech.Teste.Models\ClasTech.Teste.Models.csproj" />
+    <ProjectReference Include="..\ClasTech.Teste\ClasTech.Teste.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -1,0 +1,56 @@
+﻿@page
+@model ClasTech.Teste.Pages.Views.Home.PedidosItems.EditModel
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<h1>Edit</h1>
+
+<h4>PedidoItemViewModel</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="PedidoItemViewModel.Id" />
+            <div class="form-group">
+                <label asp-for="PedidoItemViewModel.Nome" class="control-label"></label>
+                <input asp-for="PedidoItemViewModel.Nome" class="form-control" />
+                <span asp-validation-for="PedidoItemViewModel.Nome" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PedidoItemViewModel.ProdutoId" class="control-label"></label>
+                <input asp-for="PedidoItemViewModel.ProdutoId" class="form-control" />
+                <span asp-validation-for="PedidoItemViewModel.ProdutoId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PedidoItemViewModel.Descricao" class="control-label"></label>
+                <input asp-for="PedidoItemViewModel.Descricao" class="form-control" />
+                <span asp-validation-for="PedidoItemViewModel.Descricao" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PedidoItemViewModel.Valor" class="control-label"></label>
+                <input asp-for="PedidoItemViewModel.Valor" class="form-control" />
+                <span asp-validation-for="PedidoItemViewModel.Valor" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="PedidoItemViewModel.Ativo" /> @Html.DisplayNameFor(model => model.PedidoItemViewModel.Ativo)
+                </label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

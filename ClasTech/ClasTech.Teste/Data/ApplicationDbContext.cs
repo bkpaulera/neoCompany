@@ -10,7 +10,9 @@ namespace ClasTech.Teste.Data
             : base(options)
         {
         }
+
         public DbSet<PedidoViewModel> pedido { get; set; } = default;
         public DbSet<PedidoItemViewModel> pedidoItem { get; set; } = default;
+
     }
 }
