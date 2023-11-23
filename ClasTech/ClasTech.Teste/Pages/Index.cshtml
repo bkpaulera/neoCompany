@@ -8,3 +8,91 @@
     <h1 class="display-4">Welcome</h1>
     <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
 </div>
+
+<div class="row">
+    <div class="col-md-6">
+        <form method="post">
+
+            <div class="form-group">
+                <label for="nomePedidoConsulta">Consultar o pedido que tenha o maior valor total:</label>
+                <input type="text" name="nomePedidoConsulta" class="form-control" />
+                <button type="submit" name="acao" value="consultarPorNome" class="btn btn-primary">Consultar</button>
+            </div>
+
+            <div class="form-group">
+                <label for="nomePedidoConsulta">Consultar pedidos item por nome:</label>
+                <input type="text" name="nomePedidoConsulta" class="form-control" />
+                <button type="submit" name="acao" value="consultarPorNome" class="btn btn-primary">Consultar</button>
+            </div>
+
+            <div class="form-group">
+                <label for="pedidosAtivos">Consultar apenas os pedidos ativos:</label>
+                <button type="submit" name="acao" value="pedidosAtivos" class="btn btn-primary">Consultar</button>
+            </div>
+
+            <div class="form-group">
+                <label for="anoPedido">Consultar apenas pedidos realizados no ano de 2017:</label>
+                <input type="text" name="anoPedido" class="form-control" />
+                <button type="submit" name="acao" value="pedidosPorAno" class="btn btn-primary">Consultar</button>
+            </div>
+
+            <div class="form-group">
+                <label for="valorMenorQue">
+                    Consultar pedidos item (de todos os pedidos) onde o valor seja menor que R$
+                    18,50:
+                </label>
+                <input type="text" name="valorMenorQue" class="form-control" />
+                <button type="submit" name="acao" value="valorMenorQue" class="btn btn-primary">Consultar</button>
+            </div>
+        </form>
+    </div>
+    <div class="col-md-6">
+        <div class="row">
+            <div class="col-md-6">
+                <h2>Produtos</h2>
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Nome</th>
+                            <th>Descrição</th>
+                            <th>Valor</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var produto in Model.ListaDeProdutos)
+                        {
+                            <tr>
+                                <td>@produto.Nome</td>
+                                <td>@produto.Descricao</td>
+                                <td>@produto.ValorTotal</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="col-md-6">
+                <h2>Produtos Item</h2>
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Nome</th>
+                            <th>Descrição</th>
+                            <th>Valor</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                      @foreach (var produtoItem in Model.ListaDeProdutosItem)
+                        {
+                            <tr>
+                                <td>@produtoItem.Nome</td>
+                                <td>@produtoItem.Descricao</td>
+                                <td>@produtoItem.Valor</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
