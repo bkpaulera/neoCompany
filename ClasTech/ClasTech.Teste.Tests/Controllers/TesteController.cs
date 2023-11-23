@@ -21,11 +21,14 @@ namespace ClasTech.Teste.Tests.Controllers
         public void GetOrderHighestValue() { }
 
         [TestMethod]
+        [DataTestMethod]
+        [DataRow("PEDIDO")]
+        [DataRow("pedido 1")]
         // - Consultar pedidos item por nome
-        public void GetOrderByName()
+        public void GetOrderByName(string order)
         {
-            string order = "VALUE";
-            var value = _service.GetOrderByName("value");
+           
+            var value = _service.GetOrderByName("PEDIDO");
 
             Assert.IsTrue(order == value);
         }

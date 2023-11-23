@@ -9,12 +9,34 @@
         // - Consultar pedidos item por nome
         public string GetOrderByName(string name)
         {
-            
-            return name.ToUpper();
+            public IList<TesteViewModel> GetAll()
+            {
+                try
+                {
+                    using (var db = new clastechTesteEntities())
+                    {
+                        var list = (from t in db.teste
+                                    select new TesteViewModel
+                                    {
+                                        Id = t.id,
+                                        Nome = t.nome,
+                                        Ativo = t.ativo
+                                    }).ToList();
+                        return name;
+                    }
+                }
+                catch (Exception ex)
+                {
+                    throw ex;
+                }
+            }
         }
+    }
 
         // - Consultar apenas os pedidos ativos
-        public void GetActiveOrders() { }
+        public void GetActiveOrders() { 
+        
+        }
 
         // - Consultar apenas pedidos realizados no ano de 2017
         public void GetOrderByYear() { }
