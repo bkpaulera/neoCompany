@@ -24,10 +24,10 @@ namespace ClasTech.Teste.Tests.Controllers
         // - Consultar pedidos item por nome
         public void GetOrderByName()
         {
-            string order = "Vsalue";
-            var value = _service.GetOrderByName("Value");
+            string order = "VALUE";
+            var value = _service.GetOrderByName("value");
 
-            Assert.IsTrue(order == "value");
+            Assert.IsTrue(order == value);
         }
 
         [TestMethod]

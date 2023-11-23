@@ -9,7 +9,8 @@
         // - Consultar pedidos item por nome
         public string GetOrderByName(string name)
         {
-            return name;
+            
+            return name.ToUpper();
         }
 
         // - Consultar apenas os pedidos ativos
