@@ -1,6 +1,7 @@
 ﻿using ClasTech.Teste.Data;
 using ClasTech.Teste.Models;
 using Microsoft.EntityFrameworkCore;
+using System.Collections.Generic;
 
 namespace ClasTech.Teste.ClassTech.Teste.Service
 {
@@ -38,13 +39,23 @@ namespace ClasTech.Teste.ClassTech.Teste.Service
         }
 
         //Pedido
-        public PedidoViewModel GetOrderHighestValue()
+        public IList<PedidoViewModel> GetOrderHighestValue()
         {
             var pedidos = _context.pedido
-            .OrderByDescending(p => p.ValorTotal)
-            .FirstOrDefault();
+            .OrderByDescending(p => p.ValorTotal);
 
-            return pedidos;
+            var maiorValor = pedidos.FirstOrDefault();
+
+            IList<PedidoViewModel> resp = new List<PedidoViewModel>();
+
+            foreach (var value in pedidos)
+            {
+                if(value.ValorTotal >= maiorValor.ValorTotal)
+                {
+                    resp.Add(value);
+                }
+            }
+            return resp;
 
         }
 

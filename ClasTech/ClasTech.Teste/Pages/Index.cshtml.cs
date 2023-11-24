@@ -37,7 +37,7 @@ namespace ClasTech.Teste.Pages
 
         public async Task OnPostByHighestValue()
         {
-            ListaDePedido = (IList<PedidoViewModel>)_service.GetOrderHighestValue();
+            ListaDePedido = _service.GetOrderHighestValue();
         }
 
         public async Task OnPostByActive()
