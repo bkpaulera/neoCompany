@@ -4,22 +4,33 @@
     ViewData["Title"] = "Home page";
 }
 <h1>Lista de Pedidos</h1>
+<div class="row">
 
-<div class="form-group mb-0 align-middle">
-    <form method="post" asp-page-handler="ByHighestValue">
-        <label asp-for="pedido.ValorTotal">Valor Total</label>
-        <button class="btn btn-primary">Buscar</button>
-    </form>
-    <form method="post" asp-page-handler="ByActive">
-        <label asp-for="pedido.Ativo">Pedidos Ativos</label>
-        <button class="btn btn-primary">Buscar</button>
-    </form>
-    <form method="post" asp-page-handler="ByYear">
-        <label asp-for="pedido.DataPedido">Bbusca Por ano</label>
-        <button class="btn btn-primary">Buscar</button>
-    </form>
+    <div class="col">
+        <form method="post" asp-page-handler="ByHighestValue">
+            <label asp-for="pedido.ValorTotal">Valor Total</label>
+            <button class="btn btn-primary">Buscar</button>
+        </form>
+    </div>
+    <div class="col">
+        <form method="post" asp-page-handler="ByActive">
+            <label asp-for="pedido.Ativo">Pedidos Ativos</label>
+            <button class="btn btn-primary">Buscar</button>
+        </form>
+    </div>
+    <div class="col">
+        <form method="post" asp-page-handler="ByYear">
+            <label asp-for="pedido.DataPedido">Busca Por ano</label>
+            <button class="btn btn-primary">Buscar</button>
+        </form>
+    </div>
+    <div class="col">
+        <form method="get" asp-page-handler="">
+            <label asp-for="pedido.DataPedido">Redefinir Busca</label>
+            <button class="btn btn-primary">Buscar</button>
+        </form>
+    </div>
 </div>
-
 
 <table class="table mt-5">
     <thead>

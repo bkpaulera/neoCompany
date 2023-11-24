@@ -5,17 +5,20 @@
 
 <h1>Lista de Items Pedidos</h1>
 
-
-<div class="form-group mb-0 align-middle">
-    <form method="post" asp-page-handler="ByName">
-        <label asp-for="pedidoItem.Nome">Name</label>
-        <input type="text" asp-for="pedidoItem.Nome" class="mr-5">
-        <button class="btn btn-primary">Buscar</button>
-    </form>
-    <form method="post" class="card p-3" asp-page-handler="ByValue">
-        <label asp-for="pedidoItem.Valor"></label>
-        <button class="btn btn-primary">Buscar</button>
-    </form>
+<div class="row">
+    <div class="col">
+        <form method="post" asp-page-handler="ByName">
+            <label asp-for="pedidoItem.Nome">Name</label>
+            <input type="text" asp-for="pedidoItem.Nome" class="mr-5">
+            <button class="btn btn-primary">Buscar</button>
+        </form>
+    </div>
+    <div class="col">
+        <form method="post" class="card p-3" asp-page-handler="ByValue">
+            <label asp-for="pedidoItem.Valor"></label>
+            <button class="btn btn-primary">Buscar</button>
+        </form>
+    </div>
 </div>
 
 <table class="table mt-5">
