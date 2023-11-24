@@ -20,20 +20,33 @@ namespace ClasTech.Teste.Pages
             _service = service;
         }
 
-        public IList<PedidoViewModel> ListaDeProdutos { get; set; } = default!;
+        public IList<PedidoViewModel> ListaDePedido { get; set; } = default!;
         
 
 
         [BindProperty]
-        public PedidoItemViewModel pedido { get; set; } = new();
+        public PedidoViewModel pedido { get; set; } = new();
 
         public async Task OnGetAsync()
         {
             if (_context.pedido != null)
             {
-                ListaDeProdutos = await _context.pedido.ToListAsync();
+                ListaDePedido = await _context.pedido.ToListAsync();
             }
         }
 
+        public async Task OnPostByName()
+        {
+            ListaDePedido = (IList<PedidoViewModel>)_service.GetOrderHighestValue();
+        }
+
+        public async Task OnPostByValue()
+        {
+            ListaDePedido = _service.GetOrderActive();
+        }
+        public async Task OnPostByYear()
+        {
+            ListaDePedido = _service.GetOrderByYear();
+        }
     }
 }

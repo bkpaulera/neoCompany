@@ -25,7 +25,7 @@ namespace ClasTech.Teste.Pages
             _logger = logger;
         }
 
-        public IList<PedidoItemViewModel> ListaDeProdutosItem { get; set; } = default!;
+        public IList<PedidoItemViewModel> ListaDePedidoItem { get; set; } = default!;
 
         [BindProperty]
         public PedidoItemViewModel pedidoItem { get; set; } = new();
@@ -33,18 +33,18 @@ namespace ClasTech.Teste.Pages
         {
             if (_context.pedido != null)
             {
-                ListaDeProdutosItem = await _context.pedidoItem.ToListAsync();
+                ListaDePedidoItem = await _context.pedidoItem.ToListAsync();
             }
         }
 
         public async Task OnPostByName()
         {
-            ListaDeProdutosItem = _service.GetOrderByName(pedidoItem.Nome);
+            ListaDePedidoItem = _service.GetOrderByName(pedidoItem.Nome);
         }
 
         public async Task OnPostByValue()
         {
-            ListaDeProdutosItem = _service.GetOrderByValue((decimal)18.50);
+            ListaDePedidoItem = _service.GetOrderByValue((decimal)18.50);
         }
     }
 
