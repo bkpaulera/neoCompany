@@ -12,7 +12,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ClasTech.Teste.Models\ClasTech.Teste.Models.csproj" />
-    <ProjectReference Include="..\ClasTech.Teste\ClasTech.Teste.csproj" />
   </ItemGroup>
 
 </Project>

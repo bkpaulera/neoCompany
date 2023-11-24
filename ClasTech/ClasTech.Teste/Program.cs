@@ -1,4 +1,5 @@
 using ClasTech.Teste.Data;
+using ClasTech.Teste.Service;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
@@ -12,6 +13,7 @@ builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
 builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
     .AddEntityFrameworkStores<ApplicationDbContext>();
+builder.Services.AddScoped<TesteService>();
 builder.Services.AddRazorPages();
 
 var app = builder.Build();

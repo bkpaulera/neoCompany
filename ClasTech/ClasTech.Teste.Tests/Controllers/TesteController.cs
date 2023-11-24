@@ -5,16 +5,18 @@ namespace ClasTech.Teste.Tests.Controllers
     [TestClass]
     public class TesteController
     {
-        //private TesteService _service;
+        private TesteService _service;
 
         [TestInitialize]
         public void TestInitialize()
         {
-            //_service = new TesteService();
+            _service = new TesteService();
         }
 
         [TestMethod]
-        public void Index() { }
+        public void Index() {
+            _service.GetAll();
+        }
 
         [TestMethod]
         //- Consultar o pedido que tenha o maior valor total

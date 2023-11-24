@@ -1,10 +1,16 @@
-﻿namespace ClasTech.Teste.Service
+﻿
+using ClasTech.Teste.Models;
+using Microsoft.EntityFrameworkCore;
+
+namespace ClasTech.Teste.Service
 {
     public class TesteService
     {
-
+    
         //- Consultar o pedido que tenha o maior valor total
-        public void GetOrderHighestValue() { }
+        public void GetOrderHighestValue() {
+            
+        }
 
         // - Consultar pedidos item por nome
         public string GetOrderByName(string name)
