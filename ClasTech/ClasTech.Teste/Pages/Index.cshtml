@@ -3,25 +3,19 @@
 @{
     ViewData["Title"] = "Home page";
 }
-
 <h1>Lista de Pedidos</h1>
-
 <form method="post" class="card p-3">
-    <div class="row">
-        <div asp-validation-summary="All"></div>
-    </div>
     <div class="form-group mb-0 align-middle">
-        
+
         <label asp-for="pedido.Valor"> Mairor Valor Total</label>
         <input asp-for="pedido.Valor" class="mr-5" />
-        
+
         <label asp-for="pedido.Ativo">Pedidos Ativos</label>
         <input type="checkbox" asp-for="pedido.Ativo" class="mr-5">
-        
+
         <button class="btn btn-primary">Buscar</button>
     </div>
 </form>
-
 <table class="table mt-5">
     <thead>
         <tr>
@@ -36,54 +30,10 @@
             <td>@pedido.Nome</td>
             <td>@($"{pedido.ValorTotal:C}")</td>
             <td>@pedido.Ativo</td>
-            <td>
-                <form method="post" asp-page-handler="Delete" asp-route-id="@pedido.Id">
-                    <button class="btn btn-danger">Delete</button>
-                </form>
-            </td>
         </tr>
     }
 </table>
 
-<h1>Lista de Items Pedidos</h1>
-
-
-    <div class="form-group mb-0 align-middle">
-        <form method="post" asp-page-handler="ByName" >
-            <label asp-for="pedidoItem.Nome">Name</label>
-            <input type="text" asp-for="pedidoItem.Nome" class="mr-5">
-            <button class="btn btn-primary">Buscar</button>
-        </form>
-        <form method="post" class="card p-3">
-            <label asp-for="pedidoItem.Valor"></label>
-            <input asp-for="pedidoItem.Valor" class="mr-5" />
-            <button class="btn btn-primary">Buscar</button>
-        </form>
-    </div>
-    
-<table class="table mt-5">
-    <thead>
-        <tr>
-            <th scope="col">Nome</th>
-            <th scope="col">Valor</th>
-            <th scope="col">Ativo</th>
-        </tr>
-    </thead>
-    @foreach (var pedidoItem in Model.ListaDeProdutosItem)
-    {
-        <tr>
-            <td>@pedidoItem.Nome</td>
-            <td>@($"{pedidoItem.Valor:C}")</td>
-            <td>@pedidoItem.Ativo</td>
-            <td>
-            <td>
-                <form method="post" asp-page-handler="Delete" asp-route-id="@pedidoItem.Id">
-                    <button class="btn btn-danger">Delete</button>
-                </form>
-            </td>
-        </tr>
-    }
-</table>
 
 @section Scripts {
     <partial name="_ValidationScriptsPartial" />

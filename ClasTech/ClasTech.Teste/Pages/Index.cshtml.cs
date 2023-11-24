@@ -21,10 +21,8 @@ namespace ClasTech.Teste.Pages
         }
 
         public IList<PedidoViewModel> ListaDeProdutos { get; set; } = default!;
-        public IList<PedidoItemViewModel> ListaDeProdutosItem { get; set; } = default!;
+        
 
-        [BindProperty]
-        public PedidoItemViewModel pedidoItem { get; set; } = new();
 
         [BindProperty]
         public PedidoItemViewModel pedido { get; set; } = new();
@@ -34,13 +32,8 @@ namespace ClasTech.Teste.Pages
             if (_context.pedido != null)
             {
                 ListaDeProdutos = await _context.pedido.ToListAsync();
-                ListaDeProdutosItem = await _context.pedidoItem.ToListAsync();
             }
         }
 
-        public async Task OnPostByName()
-        {
-            ListaDeProdutosItem = _service.GetOrderByName(pedidoItem.Nome);
-        }
     }
 }
