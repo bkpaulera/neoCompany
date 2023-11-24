@@ -4,32 +4,40 @@
     ViewData["Title"] = "Home page";
 }
 <h1>Lista de Pedidos</h1>
-<form method="post" class="card p-3">
-    <div class="form-group mb-0 align-middle">
 
-        <label asp-for="pedido.Valor"> Mairor Valor Total</label>
-        <input asp-for="pedido.Valor" class="mr-5" />
-
+<div class="form-group mb-0 align-middle">
+    <form method="post" asp-page-handler="ByHighestValue">
+        <label asp-for="pedido.ValorTotal">Valor Total</label>
+        <button class="btn btn-primary">Buscar</button>
+    </form>
+    <form method="post" asp-page-handler="ByActive">
         <label asp-for="pedido.Ativo">Pedidos Ativos</label>
         <input type="checkbox" asp-for="pedido.Ativo" class="mr-5">
-
         <button class="btn btn-primary">Buscar</button>
-    </div>
-</form>
+    </form>
+    <form method="post" asp-page-handler="ByYear">
+        <label asp-for="pedido.DataPedido">Bbusca Por ano</label>
+        <button class="btn btn-primary">Buscar</button>
+    </form>
+</div>
+
+
 <table class="table mt-5">
     <thead>
         <tr>
             <th scope="col">Nome</th>
             <th scope="col">Valor</th>
             <th scope="col">Ativo</th>
+            <th scope="col">Ano</th>
         </tr>
     </thead>
-    @foreach (var pedido in Model.ListaDeProdutos)
+    @foreach (var pedido in Model.ListaDePedido)
     {
         <tr>
             <td>@pedido.Nome</td>
             <td>@($"{pedido.ValorTotal:C}")</td>
             <td>@pedido.Ativo</td>
+            <td>@pedido.DataPedido</td>
         </tr>
     }
 </table>

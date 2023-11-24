@@ -35,12 +35,12 @@ namespace ClasTech.Teste.Pages
             }
         }
 
-        public async Task OnPostByName()
+        public async Task OnPostByHighestValue()
         {
             ListaDePedido = (IList<PedidoViewModel>)_service.GetOrderHighestValue();
         }
 
-        public async Task OnPostByValue()
+        public async Task OnPostByActive()
         {
             ListaDePedido = _service.GetOrderActive();
         }
