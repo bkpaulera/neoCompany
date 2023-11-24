@@ -20,7 +20,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ClasTech.Teste.Models\ClasTech.Teste.Models.csproj" />
-    <ProjectReference Include="..\ClasTech.Teste.Service\ClasTech.Teste.Service.csproj" />
   </ItemGroup>
 
 </Project>

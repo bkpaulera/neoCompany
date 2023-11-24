@@ -1,6 +1,7 @@
 ﻿
 using ClasTech.Teste.Models;
 using Microsoft.EntityFrameworkCore;
+using System.Collections.Generic;
 
 namespace ClasTech.Teste.Service
 {
@@ -13,9 +14,12 @@ namespace ClasTech.Teste.Service
         }
 
         // - Consultar pedidos item por nome
-        public string GetOrderByName(string name)
+        public IList<PedidoItemViewModel> GetOrderByName(string name)
         {
-            return name;
+
+            ListaDeProdutosItem = _context.pedidoItem
+            .Where(p => p.Nome == pedidoItem.Nome)
+            .ToList();
         }
 
         // - Consultar apenas os pedidos ativos

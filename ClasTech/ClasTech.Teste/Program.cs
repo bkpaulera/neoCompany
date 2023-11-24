@@ -1,5 +1,5 @@
+using ClasTech.Teste.ClassTech.Teste.Service;
 using ClasTech.Teste.Data;
-using ClasTech.Teste.Service;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 

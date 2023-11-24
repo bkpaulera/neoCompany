@@ -1,4 +1,5 @@
-﻿using ClasTech.Teste.Data;
+﻿using ClasTech.Teste.ClassTech.Teste.Service;
+using ClasTech.Teste.Data;
 using ClasTech.Teste.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
@@ -11,11 +12,12 @@ namespace ClasTech.Teste.Pages
 
         private readonly ClasTech.Teste.Data.ApplicationDbContext _context;
         private readonly ILogger<IndexModel> _logger;
-
-        public IndexModel(ApplicationDbContext context, ILogger<IndexModel> logger)
+        private readonly TesteService _service;
+        public IndexModel(ApplicationDbContext context, ILogger<IndexModel> logger, TesteService service)
         {
             _context = context;
             _logger = logger;
+            _service = service;
         }
 
         public IList<PedidoViewModel> ListaDeProdutos { get; set; } = default!;
@@ -34,6 +36,11 @@ namespace ClasTech.Teste.Pages
                 ListaDeProdutos = await _context.pedido.ToListAsync();
                 ListaDeProdutosItem = await _context.pedidoItem.ToListAsync();
             }
+        }
+
+        public async Task OnPostByName()
+        {
+            ListaDeProdutosItem = _service.GetOrderByName(pedidoItem.Nome);
         }
     }
 }

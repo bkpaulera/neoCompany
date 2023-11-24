@@ -7,8 +7,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClasTech.Teste", "ClasTech.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClasTech.Teste.Models", "..\ClasTech.Teste.Models\ClasTech.Teste.Models.csproj", "{5A85BF1B-AFF8-4656-AD96-99CD7FDCB3C0}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClasTech.Teste.Service", "..\ClasTech.Teste.Service\ClasTech.Teste.Service.csproj", "{A71A713E-6D41-491B-A5A4-757E73469719}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClasTech.Teste.Business.Entities", "..\ClasTech.Teste.Business.Entities\ClasTech.Teste.Business.Entities.csproj", "{19234A1E-45BF-4C31-A665-5D7444752B67}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClasTech.Teste.Tests", "..\ClasTech.Teste.Tests\ClasTech.Teste.Tests.csproj", "{12C5AF87-970F-4820-AE5F-C6508182189C}"
@@ -27,10 +25,6 @@ Global
 		{5A85BF1B-AFF8-4656-AD96-99CD7FDCB3C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A85BF1B-AFF8-4656-AD96-99CD7FDCB3C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A85BF1B-AFF8-4656-AD96-99CD7FDCB3C0}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A71A713E-6D41-491B-A5A4-757E73469719}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A71A713E-6D41-491B-A5A4-757E73469719}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A71A713E-6D41-491B-A5A4-757E73469719}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A71A713E-6D41-491B-A5A4-757E73469719}.Release|Any CPU.Build.0 = Release|Any CPU
 		{19234A1E-45BF-4C31-A665-5D7444752B67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{19234A1E-45BF-4C31-A665-5D7444752B67}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19234A1E-45BF-4C31-A665-5D7444752B67}.Release|Any CPU.ActiveCfg = Release|Any CPU

@@ -46,21 +46,21 @@
 </table>
 
 <h1>Lista de Items Pedidos</h1>
-<form method="post" class="card p-3">
-    <div class="row">
-        <div asp-validation-summary="All"></div>
-    </div>
-    <div class="form-group mb-0 align-middle">
-        
-        <label asp-for="pedidoItem.Nome">Name</label>
-        <input type="text" asp-for="pedidoItem.Nome" class="mr-5">
 
-        <label asp-for="pedidoItem.Valor"></label>
-        <input asp-for="pedidoItem.Valor" class="mr-5" />
-        
-        <button class="btn btn-primary">Buscar</button>
+
+    <div class="form-group mb-0 align-middle">
+        <form method="post" asp-page-handler="ByName" >
+            <label asp-for="pedidoItem.Nome">Name</label>
+            <input type="text" asp-for="pedidoItem.Nome" class="mr-5">
+            <button class="btn btn-primary">Buscar</button>
+        </form>
+        <form method="post" class="card p-3">
+            <label asp-for="pedidoItem.Valor"></label>
+            <input asp-for="pedidoItem.Valor" class="mr-5" />
+            <button class="btn btn-primary">Buscar</button>
+        </form>
     </div>
-</form>
+    
 <table class="table mt-5">
     <thead>
         <tr>
